@@ -3,8 +3,8 @@
 **MCA Candidate** | *Uttaranchal University (Batch 2026-2028)*  
 Specializing in Software Engineering, Data Structures & Algorithms, and Enterprise Applications.
 
-[LinkedIn Profile](https://www.linkedin.com/in/saurabh-gupta-94259a435) • [Your Email Address](Saurabh2401m@gmail.com) •
-LeatCode[(https://leetcode.com/u/Saurabhh24)]
+[LinkedIn Profile](https://www.linkedin.com/in/saurabh-gupta-94259a435) • [Email Me](mailto:Saurabh2401m@gmail.com) •
+[LeetCode Profile]((https://leetcode.com/u/Saurabhh24))
 
 
 ### Professional Profile
@@ -33,11 +33,12 @@ Detail-oriented **Master of Computer Applications (MCA) student** at Uttaranchal
 
 | Technical Contributions | Core Languages Utilized |
 | :--- | :--- |
-| ![GitHub Stats](Saurxbhh) |
+| ![GitHub Stats](https://vercel.app) | ![Top Langs](https://vercel.app) |
+
 
 ---
 
 ### Repositories of Note
 
 * 📂 **[DSA-Reference-Library]([https://github.com](https://github.com/Saurxbhh/DSA-Reference-Library))** – A structured repository containing optimized implementations of core data structures and competitive programming solutions in Java.
-* 📂 **[Object-Oriented-Systems]([https://github.com](https://github.com/Saurxbhh/Object-Oriented-Systems))** – Practical implementations of OOP principles, architectural patterns, and foundational software designs built using C#.
+* 📂 **[Object-Oriented-Systems]([https://github.com](https://github.com/Saurxbhh/Object-Oriented-Systems))** – Practical implementations of OOP principles, architectural patterns, and foundational software designs built using Java.
