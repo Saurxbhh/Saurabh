@@ -1,4 +1,4 @@
-# [Your Full Name]
+# [Saurabh Gupta]
 
 **MCA Candidate** | *Uttaranchal University (Batch 2026-2028)*  
 Specializing in Software Engineering, Data Structures & Algorithms, and Enterprise Applications.
