@@ -31,15 +31,19 @@ Detail-oriented **Master of Computer Applications (MCA) student** at Uttaranchal
 
 ### Performance Metrics & Analytics
 
-| Technical Contributions | Core Languages Utilized |
+[![Saurabh's GitHub](https://vercel.app)](https://github.com)
+
+| Core Languages & Frameworks | Professional Competencies |
 | :--- | :--- |
-| ![GitHub Stats](https://vercel.app) | ![Top Langs](https://vercel.app) |
-
-
+| 🛡️ **Backend Development:** `Java` `C++` `Python` `C#` | 🧠 **Computer Science:** `Data Structures & Algorithms (DSA)` |
+| 🛢️ **Data Engineering:** `SQL` `Oracle PL/SQL` `PostgreSQL` | ⚡ **Architecture Design:** `Object-Oriented Programming (OOP)` |
 
 ---
 
 ### Repositories of Note
 
-* 📂 **[DSA-Reference-Library]([https://github.com](https://github.com/Saurxbhh/DSA-Reference-Library))** – A structured repository containing optimized implementations of core data structures and competitive programming solutions in Java.
+* 📂 **[DSA-Reference-Library](https://github.com/DSA-Reference-Library)** – A structured repository containing 45+ optimized implementations of core data structures and competitive programming solutions in Java.
+* 📂 **[Object-Oriented-Java](https://github.com/Object-Oriented-Java)** – Practical implementations of OOP principles, architectural patterns, robust exceptions, and creational design factory systems built using Java.
+* 📂 **[Relational-Database-Architectures](https://github.com/Relational-Database-Architectures)** – Production-grade relational database schemas, complex multi-table optimization queries, and procedural PL/SQL automation objects.
+* 📂 **[Enterprise-Registry-Engine](https://github.com/Enterprise-Registry-Engine)** – An end-to-end Object-Oriented console application integrating backend memory states and architectural logic control tracking layers.containing optimized implementations of core data structures and competitive programming solutions in Java.
 * 📂 **[Object-Oriented-Systems]([https://github.com](https://github.com/Saurxbhh/Object-Oriented-Systems))** – Practical implementations of OOP principles, architectural patterns, and foundational software designs built using Java.
